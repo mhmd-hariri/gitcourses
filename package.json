@@ -1,0 +1,19 @@
+{
+  "name": "increase",
+  "version": "0.0.1",
+  "description": "increase the number with 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhmd-hariri/gitcourses.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhmd-hariri/gitcourses/issues"
+  },
+  "homepage": "https://github.com/mhmd-hariri/gitcourses#readme"
+}
